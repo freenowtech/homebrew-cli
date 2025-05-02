@@ -3,7 +3,7 @@ class GitJira < Formula
   
   desc ""
   homepage ""
-  url "https://github.com/freenowtech/git-jira.git", :using => :git, :tag => "v1.0.0"
+  url "https://github.com/freenowtech/git-jira.git", :using => :git, :tag => "v2.0.0"
   sha256 ""
   license ""
   
